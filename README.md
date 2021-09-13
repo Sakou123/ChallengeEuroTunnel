@@ -12,7 +12,7 @@
 - Transposition des données JSON vers L'Array avant d'utiliser "json_encode" pour transformer 
   l'Array a l'état de JSON pour qu'il soit compris par L'API.
 
-+ Affichage des données avec un "echo" pour verifier que tout c'est bien passé avant l'étape final qu'est l'envoi.
++ Affichage des données avec un "echo" pour verifier que tout c'est bien passé avant l'étape final.
 ```
 ##Dernière étape :
 ```
